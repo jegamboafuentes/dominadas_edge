@@ -1,0 +1,12 @@
+item {
+  name: "mano"
+  id: 1
+}
+item {
+  name: "bote"
+  id: 2
+}
+item {
+  name: "dominada"
+  id: 3
+}
